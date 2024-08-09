@@ -1,6 +1,6 @@
 # Text-to-Video Diffusion Model
 
-This project implements a text-to-video diffusion model using the [Hugging Face Diffusers library](https://huggingface.co/docs/diffusers/index). The model generates short videos based on textual prompts. This project leverages pre-trained diffusion models and fine-tunes them to create high-quality video content.
+This project implements a text-to-video diffusion model using the [Hugging Face Diffusers library](https://huggingface.co/iamprabhanjan/Mini-Project-ttv/tree/main). The model generates short videos based on textual prompts. This project leverages pre-trained diffusion models and fine-tunes them to create high-quality video content.
 
 ## Features
 - **Text-to-Video Generation:** Generate videos from text prompts using a diffusion model.
